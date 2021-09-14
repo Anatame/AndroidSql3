@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean) 2">
+    <annotation name="androidx.annotation.IntRange">
+      <val name="from" val="0" />
+    </annotation>
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean) 4">
+    <annotation name="androidx.annotation.FloatRange">
+      <val name="from" val="0.0" />
+    </annotation>
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean) 3">
+    <annotation name="androidx.annotation.IntRange">
+      <val name="from" val="0" />
+    </annotation>
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean) 5">
+    <annotation name="androidx.annotation.FloatRange">
+      <val name="from" val="0.0" />
+    </annotation>
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean, android.text.TextUtils.TruncateAt, int) 3">
+    <annotation name="androidx.annotation.IntRange">
+      <val name="from" val="0" />
+    </annotation>
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean, android.text.TextUtils.TruncateAt, int) 5">
+    <annotation name="androidx.annotation.FloatRange">
+      <val name="from" val="0.0" />
+    </annotation>
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean, android.text.TextUtils.TruncateAt, int) 9">
+    <annotation name="androidx.annotation.IntRange">
+      <val name="from" val="0" />
+    </annotation>
+  </item>
+  <item name="android.text.DynamicLayout.Builder android.text.DynamicLayout.Builder obtain(java.lang.CharSequence, android.text.TextPaint, int) 2">
+    <annotation name="androidx.annotation.IntRange">
+      <val name="from" val="0" />
+    </annotation>
+  </item>
+  <item name="android.text.DynamicLayout.Builder android.text.DynamicLayout.Builder setBreakStrategy(int) 0">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{android.graphics.text.LineBreaker.BREAK_STRATEGY_SIMPLE, android.graphics.text.LineBreaker.BREAK_STRATEGY_HIGH_QUALITY, android.graphics.text.LineBreaker.BREAK_STRATEGY_BALANCED}" />
+    </annotation>
+  </item>
+  <item name="android.text.DynamicLayout.Builder android.text.DynamicLayout.Builder setEllipsizedWidth(int) 0">
+    <annotation name="androidx.annotation.IntRange">
+      <val name="from" val="0" />
+    </annotation>
+  </item>
+  <item name="android.text.DynamicLayout.Builder android.text.DynamicLayout.Builder setHyphenationFrequency(int) 0">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{android.text.Layout.HYPHENATION_FREQUENCY_NORMAL, android.text.Layout.HYPHENATION_FREQUENCY_FULL, android.text.Layout.HYPHENATION_FREQUENCY_NONE}" />
+    </annotation>
+  </item>
+  <item name="android.text.DynamicLayout.Builder android.text.DynamicLayout.Builder setJustificationMode(int) 0">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{android.graphics.text.LineBreaker.JUSTIFICATION_MODE_NONE, android.graphics.text.LineBreaker.JUSTIFICATION_MODE_INTER_WORD}" />
+    </annotation>
+  </item>
+  <item name="android.text.DynamicLayout.Builder android.text.DynamicLayout.Builder setLineSpacing(float, float) 1">
+    <annotation name="androidx.annotation.FloatRange">
+      <val name="from" val="0.0" />
+    </annotation>
+  </item>
+  <item name="android.text.PrecomputedText float getWidth(int, int)">
+    <annotation name="androidx.annotation.FloatRange">
+      <val name="from" val="0" />
+    </annotation>
+  </item>
+  <item name="android.text.PrecomputedText float getWidth(int, int) 0">
+    <annotation name="androidx.annotation.IntRange">
+      <val name="from" val="0" />
+    </annotation>
+  </item>
+  <item name="android.text.PrecomputedText float getWidth(int, int) 1">
+    <annotation name="androidx.annotation.IntRange">
+      <val name="from" val="0" />
+    </annotation>
+  </item>
+  <item name="android.text.PrecomputedText int getParagraphCount()">
+    <annotation name="androidx.annotation.IntRange">
+      <val name="from" val="0" />
+    </annotation>
+  </item>
+  <item name="android.text.PrecomputedText int getParagraphEnd(int)">
+    <annotation name="androidx.annotation.IntRange">
+      <val name="from" val="0" />
+    </annotation>
+  </item>
+  <item name="android.text.PrecomputedText int getParagraphEnd(int) 0">
+    <annotation name="androidx.annotation.IntRange">
+      <val name="from" val="0" />
+    </annotation>
+  </item>
+  <item name="android.text.PrecomputedText int getParagraphStart(int)">
+    <annotation name="androidx.annotation.IntRange">
+      <val name="from" val="0" />
+    </annotation>
+  </item>
+  <item name="android.text.PrecomputedText int getParagraphStart(int) 0">
+    <annotation name="androidx.annotation.IntRange">
+      <val name="from" val="0" />
+    </annotation>
+  </item>
+  <item name="android.text.PrecomputedText void getBounds(int, int, android.graphics.Rect) 0">
+    <annotation name="androidx.annotation.IntRange">
+      <val name="from" val="0" />
+    </annotation>
+  </item>
+  <item name="android.text.PrecomputedText void getBounds(int, int, android.graphics.Rect) 1">
+    <annotation name="androidx.annotation.IntRange">
+      <val name="from" val="0" />
+    </annotation>
+  </item>
+  <item name="android.text.PrecomputedText.Params int getBreakStrategy()">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{android.graphics.text.LineBreaker.BREAK_STRATEGY_SIMPLE, android.graphics.text.LineBreaker.BREAK_STRATEGY_HIGH_QUALITY, android.graphics.text.LineBreaker.BREAK_STRATEGY_BALANCED}" />
+    </annotation>
+  </item>
+  <item name="android.text.PrecomputedText.Params int getHyphenationFrequency()">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{android.text.Layout.HYPHENATION_FREQUENCY_NORMAL, android.text.Layout.HYPHENATION_FREQUENCY_FULL, android.text.Layout.HYPHENATION_FREQUENCY_NONE}" />
+    </annotation>
+  </item>
+  <item name="android.text.PrecomputedText.Params.Builder android.text.PrecomputedText.Params.Builder setBreakStrategy(int) 0">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{android.graphics.text.LineBreaker.BREAK_STRATEGY_SIMPLE, android.graphics.text.LineBreaker.BREAK_STRATEGY_HIGH_QUALITY, android.graphics.text.LineBreaker.BREAK_STRATEGY_BALANCED}" />
+    </annotation>
+  </item>
+  <item name="android.text.PrecomputedText.Params.Builder android.text.PrecomputedText.Params.Builder setHyphenationFrequency(int) 0">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{android.text.Layout.HYPHENATION_FREQUENCY_NORMAL, android.text.Layout.HYPHENATION_FREQUENCY_FULL, android.text.Layout.HYPHENATION_FREQUENCY_NONE}" />
+    </annotation>
+  </item>
+  <item name="android.text.StaticLayout.Builder android.text.StaticLayout.Builder obtain(java.lang.CharSequence, int, int, android.text.TextPaint, int) 1">
+    <annotation name="androidx.annotation.IntRange">
+      <val nam
